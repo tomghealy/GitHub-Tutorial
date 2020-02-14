@@ -1,3 +1,3 @@
 # GitHub-Tutorial
 
-Changes go here
+Changes can go here
